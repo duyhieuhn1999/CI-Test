@@ -1,0 +1,23 @@
+.main{
+    width: 50%;
+    margin: 0 auto;
+}
+div h3{
+    background-color:red;
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+}
+div p{
+    text-align: center;
+}
+.conten{
+    background-color: sandybrown;
+    height: 100px;
+
+}
+.input{
+    text-align: center;
+    height: 30px;
+    background-color: salmon;
+}
